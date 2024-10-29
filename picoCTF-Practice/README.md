@@ -14,3 +14,4 @@
 | [Serpentine](./Serpentine/Serpentine-Solution.md) | Misc | Medium |
 | [St3go](./St3go/St3go-Solution.md) | Steg | Medium |
 | [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web | Medium |
+| [useless](./useless/useless_solution.md) | Misc | Easy |
