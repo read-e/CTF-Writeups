@@ -12,3 +12,4 @@
 | [Search source](./Search%20source/Search-source-Solution.md) | Web |
 | [Serpentine](./Serpentine/Serpentine-Solution.md) | Misc |
 | [St3go](./St3go/St3go-Solution.md) | Steg |
+| [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web |
