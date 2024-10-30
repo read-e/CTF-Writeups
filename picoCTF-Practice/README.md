@@ -12,6 +12,7 @@
 | [SansAlpha](./SansAlpha/SansAlpha-Solution.md) | Misc | Medium |
 | [Search source](./Search%20source/Search-source-Solution.md) | Web | Medium |
 | [Serpentine](./Serpentine/Serpentine-Solution.md) | Misc | Medium |
+| [Specialer](./Specialer/Specialer-Solution.md) | Misc | Medium |
 | [St3go](./St3go/St3go-Solution.md) | Steg | Medium |
 | [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web | Medium |
 | [useless](./useless/useless_solution.md) | Misc | Easy |
