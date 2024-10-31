@@ -4,6 +4,7 @@
 
 | Challenge | Categories | Difficulty |
 | :----| :-------- | :--------|
+| [ASCII Numbers](./ASCII%20Numbers/ASCII-Numbers-Solution.md) | Misc | Easy |
 | [Client-side-again](./Client-side-again/Client-side-again-Solution.md) | Web, Cryptography | Medium |
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
 | [login](./login/login-Solution.md) | Web | Medium |
