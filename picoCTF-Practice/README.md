@@ -1,7 +1,5 @@
 # picoCTF Challenges
 
-
-
 | Challenge | Categories | Difficulty |
 | :----| :-------- | :--------|
 | [ASCII Numbers](./ASCII%20Numbers/ASCII-Numbers-Solution.md) | Misc | Easy |
