@@ -15,4 +15,5 @@
 | [Specialer](./Specialer/Specialer-Solution.md) | Misc | Medium |
 | [St3go](./St3go/St3go-Solution.md) | Steg | Medium |
 | [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web | Medium |
+| [SQL Direct](./SQL-Direct/SQL-Direct-Solution.md) | SQL | Medium |
 | [useless](./useless/useless_solution.md) | Misc | Easy |
