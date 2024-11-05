@@ -2,7 +2,7 @@
 
 | Challenge | Categories | Difficulty |
 | :----| :-------- | :--------|
-| [ASCII Numbers](./ASCII%20Numbers/ASCII-Numbers-Solution.md) | Misc | Easy |
+| [WebNet1](./WebNet1/WebNet1-solution.md) | Forensics | **Hard** |
 | [Client-side-again](./Client-side-again/Client-side-again-Solution.md) | Web, Cryptography | Medium |
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
 | [login](./login/login-Solution.md) | Web | Medium |
@@ -16,4 +16,5 @@
 | [St3go](./St3go/St3go-Solution.md) | Steg | Medium |
 | [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web | Medium |
 | [SQL Direct](./SQL-Direct/SQL-Direct-Solution.md) | SQL | Medium |
+| [ASCII Numbers](./ASCII%20Numbers/ASCII-Numbers-Solution.md) | Misc | Easy |
 | [useless](./useless/useless_solution.md) | Misc | Easy |
