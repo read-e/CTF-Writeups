@@ -7,6 +7,7 @@
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
 | [login](./login/login-Solution.md) | Web | Medium |
 | [MatchTheRegex](./MatchTheRegex/MathTheRegex-Solution.md) | Misc, Web |  Medium |
+| [No Sql Injection](./No-Sql-Injection/No-Sql-Injection-Solution.md) | Web | Medium |
 | [plumbing](./plumbing/plumbing-Solution.md) | Misc | Medium |
 | [picobrowser](./picobrowser/picobrowser-Solution.md) | Web | Medium |
 | [Roboto Sans](./Roboto-Sans/Roboto-Sans-Solution.md) | Web | Medium
