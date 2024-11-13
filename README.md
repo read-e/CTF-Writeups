@@ -9,3 +9,4 @@ Capture the flag (CTF) events test a participants cybersecurity skills with chal
 | [**picoCTF**](./picoCTF-Practice/README.md) | Forensics, Web, Cryptography, SQL, Steg, Misc |
 | [**Qu3stc0n_CTF**](./Qu3stc0n_CTF/README.md) | OSINT |
 | [**TCP1P-2024**](./TCP1P-2024/README.md) | Misc, Cryptography, OSINT |
+| [**EKOPARTY-2024**](./EKOPARTY-2024/README.md) | AI |
