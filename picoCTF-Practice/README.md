@@ -19,4 +19,5 @@
 | [SQLiLite](./SQLiLite/SQLiLite-Solution.md) | SQL, Web | Medium |
 | [SQL Direct](./SQL-Direct/SQL-Direct-Solution.md) | SQL | Medium |
 | [ASCII Numbers](./ASCII%20Numbers/ASCII-Numbers-Solution.md) | Misc | Easy |
+| [FindAndOpen](./FindAndOpen/FindAndOpen-Solution.md) | Forensics | Easy |
 | [useless](./useless/useless_solution.md) | Misc | Easy |
