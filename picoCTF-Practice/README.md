@@ -3,6 +3,7 @@
 | Challenge | Categories | Difficulty |
 | :----| :-------- | :--------|
 | [WebNet1](./WebNet1/WebNet1-solution.md) | Forensics | **Hard** |
+| [caas](./caas/caas-Solution.md) | Web | Medium |
 | [Client-side-again](./Client-side-again/Client-side-again-Solution.md) | Web, Cryptography | Medium |
 | [findme](./findme/findme-Solution.md) | Web | Medium |
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
