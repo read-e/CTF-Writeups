@@ -4,6 +4,7 @@
 | :----| :-------- | :--------|
 | [WebNet1](./WebNet1/WebNet1-solution.md) | Forensics | **Hard** |
 | [Client-side-again](./Client-side-again/Client-side-again-Solution.md) | Web, Cryptography | Medium |
+| [findme](./findme/findme-Solution.md) | Web | Medium |
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
 | [login](./login/login-Solution.md) | Web | Medium |
 | [MatchTheRegex](./MatchTheRegex/MathTheRegex-Solution.md) | Misc, Web |  Medium |
