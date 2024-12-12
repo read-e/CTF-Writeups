@@ -1,6 +1,8 @@
 # Power Cookie
 Liam Reidy
 
+**Instructions:** Can you get the flag? Go to this website and see what you can discover.
+
 On the start page, there is a button that offers you to login as the guest. Here's the function that does it:
 
 ```js
