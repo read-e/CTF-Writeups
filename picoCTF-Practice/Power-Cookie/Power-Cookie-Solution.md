@@ -20,5 +20,3 @@ Entering as a guest informs us that "there are no services available at the mome
 Changing the isAdmin value to 1 and reloading the page returns the flag!
 
 This challenge was marked as `Medium` difficulty, but I don't think it should have.
-
-picoCTF{gr4d3_A_c00k13_65fd1e1a}
