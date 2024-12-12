@@ -25,4 +25,5 @@
 | [Based](./Based/Based-Solution.md) | Cryptography | Easy |
 | [FindAndOpen](./FindAndOpen/FindAndOpen-Solution.md) | Forensics | Easy |
 | [mus1c](./mus1c/mus1c-Solution.md) | Misc | Easy |
+| [Power Cookie](./Power-Cookie/Power-Cookie-Solution.md) | Web | Easy |
 | [useless](./useless/useless_solution.md) | Misc | Easy |
