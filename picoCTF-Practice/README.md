@@ -8,6 +8,7 @@
 | [Client-side-again](./Client-side-again/Client-side-again-Solution.md) | Web, Cryptography | Medium |
 | [findme](./findme/findme-Solution.md) | Web | Medium |
 | [flag_shop](./flag_shop/flag_shop_solution.md) | Misc, Overflow | Medium |
+| [JaWT Scratchpad](./JaWT-Scratchpad/JaWT-Scratchpad-Solution.md) | Web | Medium |
 | [login](./login/login-Solution.md) | Web | Medium |
 | [MatchTheRegex](./MatchTheRegex/MathTheRegex-Solution.md) | Misc, Web |  Medium |
 | [No Sql Injection](./No-Sql-Injection/No-Sql-Injection-Solution.md) | Web | Medium |
