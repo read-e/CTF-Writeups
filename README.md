@@ -1,7 +1,12 @@
 # CTF Writeups
 ### Author: Liam Reidy
 
-Capture the flag (CTF) events test a participants cybersecurity skills with challenges relating to forensics, web, cryptography, reverse engineering, stenography, OSINT, and more. They're a fun gamified way of sharpening one's cybersecurity skills. This repository contains write ups for some of the many CTF challenges I have completed.
+Capture the flag (CTF) events test a participants cybersecurity skills with challenges relating to forensics, web, cryptography, reverse engineering, stenography, OSINT, and more. It's a fun way to practice my cybersecurity skills. This repository contains write ups for most of the CTF challenges I have completed.
+
+### **Featured Challenge:** 
+[***Who are you?***](./Who-are-you/Who-are-you-Solution.md) - picoCTF (Web, Hard)
+
+### All Challenges
 | Title | Categories |
 | :----| :-------- |
 | [**USC-CTF-Fall-2024**](./USC-CTF-Fall-2024/README.md) | Forensics, Web, Cryptography |
